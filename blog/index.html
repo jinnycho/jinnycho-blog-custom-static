@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" href="../styles/css/nav.css" />
     <link rel="stylesheet" href="../styles/css/style.css" />
-    <link rel="stylesheet" href="../css/blog.css" />
+    <link rel="stylesheet" href="../styles/css/blog.css" />
   </head>
 
   <body>
@@ -67,23 +67,23 @@
     </div>
 
 
-<!--    <div class="row">-->
-<!--      <div class="column">-->
-<!--        <% for (date of dates) { %>-->
-<!--           <div class="date-column">-->
-<!--             <%= date %>-->
-<!--           </div>-->
-<!--        <% } %>-->
-<!--      </div>-->
-<!--      <div class="column">-->
-<!--        <% for (post of posts) { %>-->
-<!--          <a href="/contents/blog/<%= post.slice(0, -3) %>">-->
-<!--            <div class="post-column">-->
-<!--              <%= post.toUpperCase() %>-->
-<!--            </div>-->
-<!--          </a>-->
-<!--        <% } %>-->
-<!--      </div>-->
-<!--    </div>-->
+    <div class="row">
+      <div class="column">
+        <% for (date of dates) { %>
+           <div class="date-column">
+             <%= date %>
+           </div>
+        <% } %>
+      </div>
+      <div class="column">
+        <% for (post of posts) { %>
+          <a href="/contents/blog/<%= post.slice(0, -3) %>">
+            <div class="post-column">
+              <%= post.toUpperCase() %>
+            </div>
+          </a>
+        <% } %>
+      </div>
+    </div>
   </body>
 </html>
