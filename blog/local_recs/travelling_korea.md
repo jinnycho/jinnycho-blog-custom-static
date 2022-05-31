@@ -7,10 +7,10 @@ image: does not exist yet
 
 ### Trust me, you will not regret 
 
-People travel a lot and they use different sources of information to find the best restaurants, hotels, or cafes. For me, my go-to approach is to just directly ask people who live there. I know there are thousands of blog posts that recommend restaurants and hundreds of websites that rank hotels, but I end up just asking people. It's arguably the most fail-proof option.
+People travel a lot and they use different sources of information to find the best restaurants, hotels, or cafes. For me, my go-to approach is to just directly ask locals. It's arguably the most fail-proof option compared to other online sources.
 
 #### So you want to visit Korea?
-I'd say consider going to places other than Seoul. Seoul is beautiful of course, but I think the cities outside of Seoul is truly more charming at the end. Purely personal, but let me share some recommendations: (ah I've lived primarily around the southern part of Korea)
+I'd say consider going to places other than Seoul. Seoul is beautiful of course, but I think the cities outside of Seoul is truly more charming at the end. Let me share some of my personal recommendations: (though I've lived primarily at the southern part of Korea)
 
 #### Nice Cities
 - Jinhae
